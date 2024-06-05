@@ -8,12 +8,12 @@ Loveland is a [catpuccinian](https://github.com/catppuccin/catppuccin) fork of A
 
 ## How to install an extension
 
-You're in the wrong place for information about that; [go upstream!](https://github.com/annaesvensson/yellow-update).
+You will find better advice if you [go upstream!](https://github.com/annaesvensson/yellow-update).
 
-I don't know if this will work! I just changed the css and then crudely hit find and replace until all the `berlin`s said `loveland`.
+But if you drop [this zip file](https://github.com/hunterlockwood/yellow-loveland/archive/refs/heads/main.zip) into your `system/extensions` folder and run `php yellow.php install Loveland` and it should work.
 
 ## Acknowledgements
 
-Includes [VictorMono](https://rubjo.github.io/victor-mono/).
+Includes [VictorMono](https://rubjo.github.io/victor-mono/) for its lovely cursive italics.
 
 Thank you, Anna Svensson, for the original, even more minimalistic [design and underlying system](https://datenstrom.se/yellow/).
